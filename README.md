@@ -1,2 +1,2 @@
-# SQL-2nd-Pizzas-Project
+# SQL 2nd Pizzas Project
 Pizzas Project
